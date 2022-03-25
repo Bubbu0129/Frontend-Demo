@@ -1,33 +1,53 @@
 let myImage = document.querySelector('img');
 let myGreet = document.querySelector('p.greet');
+let myComment = document.querySelector('p.comment');
 let myButton = document.querySelector('button');
-let promptString = "Please enter your username:";
+let crispyChips = document.querySelector('li.crispy');
+let cheesyChips = document.querySelector('li.cheesy');
+let promptStr = "Please enter your username:";
+let chipsCondition = 0;
+let chipsType = 0;
+let chipsName = ['crispy_chips','crispy_chips_halved','cheesy_chips','cheesy_chips_halved'];
+let commentTxt = ['!No chips on diet!','Yummy, yummy.'];
+let commentStyle = ['color: rgb(255, 0, 0); text-align: left; font-size: 32px;','color: rgb(128, 128, 128); text-align: right; font-size: 24px; line-height: 53px;'];
 
 myImage.onclick = function() {
-    let mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/crisps.jpg') {
-      myImage.setAttribute('src', 'images/crisps_halved.jpg');
-    } else {
-      myImage.setAttribute('src', 'images/crisps.jpg');
-    }
+    chipsCondition = 1 - chipsCondition;
+    refreshImg();
+    myComment.textContent = commentTxt[chipsCondition];
+    myComment.style.cssText = commentStyle[chipsCondition];
+}
+
+crispyChips.onclick = function() {
+    chipsType = 0;
+    refreshImg();
+}
+
+cheesyChips.onclick = function() {
+    chipsType = 1;
+    refreshImg();
+}
+
+function refreshImg(){
+    myImage.setAttribute('src', 'images/' + chipsName[2 * chipsType + chipsCondition] + '.jpg');
 }
 
 if(!localStorage.getItem('name')) {
-    setUserName();
+    let storedName = "visitor";
 }
 else {
     let storedName = localStorage.getItem('name');
-    myGreet.textContent = "Hello, " + storedName + ".";
 }
+myGreet.textContent = "Hello, " + storedName + ".";
 
 function setUserName() {
-    let myName = prompt(promptString);
+    let myName = prompt(promptStr);
     if (!myName || myName === null) {
-        promptString = "Inupt null. Please enter your username:";
+        promptStr = "Inupt null. Please enter your username:";
         setUserName();
     }
     else{
-    promptString = "Please enter your username:";
+    promptStr = "Please enter your username:";
     localStorage.setItem('name', myName);
     myGreet.textContent = "Hello, " + myName + ".";
     }
