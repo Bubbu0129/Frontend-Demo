@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 
@@ -73,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93034081/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzAzNDA4MSwicyI6ODUzMzAwOTIzLCJjIjoxNDEzNzk0NjY2LCJ0IjoxNjQ4MjgwOTExfQ==--b755a43fa3227707938b329bc4797bf675f706b82c6a3650befcb09857ad4576" data-refresh-url="/_alive" data-session-id="d2001045a15c82d226e9923be9080bceabda47033d5fdd9efe86676d2649137d">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93034081/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzAzNDA4MSwicyI6ODUzMzAwOTIzLCJjIjozMTM1ODg3Nzc4LCJ0IjoxNjQ4MjgyMTUyfQ==--32c79f2013d5df03eed1b0e76415fe8d9e2d50d0c5ba65c8c8b5e13085b3bfe7" data-refresh-url="/_alive" data-session-id="d2001045a15c82d226e9923be9080bceabda47033d5fdd9efe86676d2649137d">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-dae024e51136.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="43FC:0E08:FA2149:1319BEC:623EC53F" data-pjax-transient="true" /><meta name="html-safe-nonce" content="fc36d552ce2b12117481f8b465f7732ceda8ed9aa6040393b878ef6cf4810748" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DcmlzcGVyLURvbmcvQS1QcmltaXRpdmUtUGVyc29uYWwtV2Vic2l0ZSIsInJlcXVlc3RfaWQiOiI0M0ZDOjBFMDg6RkEyMTQ5OjEzMTlCRUM6NjIzRUM1M0YiLCJ2aXNpdG9yX2lkIjoiMTczNTg3NzAzNTA4NDU2MjI3NyIsInJlZ2lvbl9lZGdlIjoiYXAtbm9ydGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="6a4bf61862796effbc8691fdb641553afbacf406adbf2fc2df4a93ef7f791d1e" data-pjax-transient="true" />
+  <meta name="request-id" content="FC6E:5A0E:A7A9D8:CC16CE:623ECA28" data-pjax-transient="true" /><meta name="html-safe-nonce" content="fc36d552ce2b12117481f8b465f7732ceda8ed9aa6040393b878ef6cf4810748" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DcmlzcGVyLURvbmcvQS1QcmltaXRpdmUtUGVyc29uYWwtV2Vic2l0ZSIsInJlcXVlc3RfaWQiOiJGQzZFOjVBMEU6QTdBOUQ4OkNDMTZDRTo2MjNFQ0EyOCIsInZpc2l0b3JfaWQiOiIxNzM1ODc3MDM1MDg0NTYyMjc3IiwicmVnaW9uX2VkZ2UiOiJhcC1ub3J0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="0fb4b281611216a8006e69ab7a48b350375f4bbcf8515505056566e1e7944376" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:474048654" data-pjax-transient>
 
@@ -113,7 +112,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NTkzYTRmNGFkZWE0M2ZiNTQxODY1NzRhMmViN2ViMjMxMjU0MjE3ZTg3YjBmNjZiNmI5YzhkM2NmMDFiM2JlMXx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjEzNy42My4zNiIsInJlcXVlc3RfaWQiOiI0M0ZDOjBFMDg6RkEyMTQ5OjEzMTlCRUM6NjIzRUM1M0YiLCJ0aW1lc3RhbXAiOjE2NDgyODA5MTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="ZjJmMDE5NWQ3NmU3MjI1ZDUwMDhjODA0MDVhYTllOGQzZmQwY2M3ODUzY2IyNDBmZTAyNjdjY2YyNGJiMzBkNnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjEzNy42My4zNiIsInJlcXVlc3RfaWQiOiJGQzZFOjVBMEU6QTdBOUQ4OkNDMTZDRTo2MjNFQ0EyOCIsInRpbWVzdGFtcCI6MTY0ODI4MjE1MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -222,7 +221,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="bHYb7cvKPriHYt7hO3Ce3gGDmK48sz1OHcbLdzpEo5w8_kYUlNt-1v4D51kEkkwuit_hdQTDoG0uWelDbGc29Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="kSC41IVlvI0I0jB5ZFpSkxV64rJI1NSZ0QFvY4fTvwzBqOUt2nT843GzCcFbuIBjniabaXCkSbrink1X0fAqZQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -429,7 +428,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/93034081?s=40&amp;v=4" width="20" height="20" alt="@Crisper-Dong" />
       Crisper-Dong
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8lJMNZHEaMEGdIJTmLvyKR0w4UBFy7D8kRLH0skZryYRZqkcyQwUH4TOogfz_JBzX__UWJfvuxnT1ezgJclY8g" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xcyNkkf2rcT5D40sIXO7IvFgmRnj5gq8Niu9dlcjIswm-Gi7Hz7RGnu1rXhKNNl4s6-sATHCAVl07JZEu_PVGA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -468,7 +467,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTMwMzQwODEiLCJ0IjoxNjQ4MjgwOTExfQ==--3b8b7e86f59643700aae625f6e6b64f3f3d9edf4eb3e87c69412277e6db0c031">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTMwMzQwODEiLCJ0IjoxNjQ4MjgyMTUyfQ==--3b5cacdf2f4034a98e9cf682943acf9951a4249d160d63c5f5836b7ece827452">
         <a href="/notifications"
           data-turbo=false
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -618,7 +617,7 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="KOvuWf358OtS49FGz1Ga6Q7VECdTPjPHBFapc2fIcqL3vwklP8RH9yVmccTdCCdLCKvfPmXzFrYZdIL0VEUBdA" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="r2frbd4e1Bc39vO0lc-8aJMPV9DzGIXntJAjclTjchJwMwwRHCNjC0BzUzaHlgHKlXGYycXVoJapsgj1Z24BxA" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1495,7 +1494,7 @@
 
   <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j5yveAbrRW3KwJjQzL329gz4N8j0AHnZHydQ58_8aSkPxAWuYdx5nRnvOgaH4_r7lqaF-YLYCvpaCx9nNGg_7A" autocomplete="off" />
+    <form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Gx_8UZOU4ZCOHq0yLD4emuHrMqtrfvAPKgOtVjXuE-KbR1aH9KPdYF0xD-RnYBKXe7WAmh2mgyxvL-LWznpFJw" autocomplete="off" />
       <button type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1566,7 +1565,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nxF4FnwP31rHE083phQQluwcLH0wQCDybqnabDZUtw9yusB4JUhkUKiKfufkD5sex6KNd31PzxuIM4ZI2_ydFQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vpu0hD2GyMb7IxoJHP1wHN7Ss5niMFDn-2k7SR_OHg67MAzqZMFzzJS6K9le5vuU9WwSk68_vw4d82dt8mY0FA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="474048654">
 
@@ -1694,7 +1693,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yJz1hUSPQqIL28XWpWg_aXAnTxXq33ccbfklYy9ECOslN03rHcj5qGRC9Abnc7ThW5nuH6fQmPWLY3lHwuwi8Q" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zDhkAzzS1stMOq3ROvtiNSmQq76RVuXoMBjGFxo8DUYhk9xtZZVtwSOjnAF44Om9Ai4KtNxZCgHWgpoz95QnXA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="474048654">
 
@@ -1866,8 +1865,8 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LGYlNOD47It04D0m9qTAk30MLutVE9EDmwBOpdFH0RCcmpEVVV0rr7CQrgPqKF4M6FOvPnqKqrayYn4AM-Jh9A" autocomplete="off" />
-        <input type="hidden" value="D0mc0PPCu24SqSI2hjdZKYOKus_Ibx4WDUypZ6yUD72_tSjxRmd8StbZsROau8e2FtU7Guf2ZaMkLpnCTjG_WQ" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hSKX3qgBHu6imIFUcjl8IYi0WT0WhMr3-7kvf3kuQZw13iP_HaTZymboEnFuteK-HevY6DkdsULS2x_am4vxeA" autocomplete="off" />
+        <input type="hidden" value="aJAXwXNguHsrIf0sioHbGOZeh3_2KfPOXNqSfUXRVQPYbKPgxsV_X-9RbgmWDUWHcwEGqtmwiHt1uKLYp3Tl5w" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="9213b3a120bd731968603a088886dbd86da013ad622a87ef1a14d8d865c67c22" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
@@ -1875,7 +1874,7 @@
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KJCZZpCC5HVnipTibGoObefg-NPKwmdi5J8FxlzInx__RnAGwlXIY-s0raqAw4hMqB6T-M1uIrvgwq_vyUCBRw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QPk16TzKqeCMJHuZnBteBvnD5yTbKLt7IM9l0cUv5FGXL9yJbh2F9gCaQtFwstgntj2MD9yE_qIkks_4UKf6CQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="8a5e4292f5c32404a832df92de7cb0dbedefb2d8f2dd3f5c408c596f6bb025b3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
@@ -1896,13 +1895,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-de18d7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3b970c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-de18d7"
+        id="filter-menu-3b970c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2191,7 +2190,7 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qPZE2ofYxo8xX0x14rzFpXYYz3Cr4qULIhAu3B6wZYcym8MuKIhQ58fO-dxSY2jNnDQDn-zYL6CbYgWrjVx6pQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="upakKZMpY69XjTUBgw6-y7tksfirnv1C5Y_nccvu1-Ig-yPdPHn1x6EcgKgz0ROjUUh9F-ykd-lc_cwGWALIwA" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
       <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
@@ -2351,80 +2350,17 @@
     <include-fragment src="/Crisper-Dong/A-Primitive-Personal-Website/spoofed_commit_check/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/Crisper-Dong/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Crisper-Dong"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/93034081?s=48&amp;v=4" width="24" height="24" alt="@Crisper-Dong" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Crisper-Dong/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Crisper-Dong">Crisper-Dong</a>
+  <include-fragment src="/Crisper-Dong/A-Primitive-Personal-Website/contributors/main/README.md" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/Crisper-Dong/A-Primitive-Personal-Website/commit/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4">Update README.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Crisper-Dong/A-Primitive-Personal-Website/commit/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Crisper-Dong/A-Primitive-Personal-Website/commit/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4" data-pjax>4b5d400</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-03-26T07:47:55Z" class="no-wrap">Mar 26, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/Crisper-Dong/A-Primitive-Personal-Website/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/Crisper-Dong/A-Primitive-Personal-Website/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2506,7 +2442,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pw0Vn3-KBo5GbXO7ifNdqcyxhVE5NMFEE8c3Anm6_b-LXVBpmWDsMGmsh4LUQz9JFlGUkDQF79l5P_shW9uGMw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FbLMZnrb2AqEvkWuxerUVOXrv9n5QOWuR13yJ_W4TFA54omQnDEytKt_sZeYWra0PwuuGPRxyzMtpT4E19k33A" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2514,7 +2450,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gD4pHnviZ3CNrAlZ6fEuDdVQtPfFua5tQ4kXV6qm-zvKN5w2A5sXeH--uF4Orcw5dpPsjuOQ1OYc5wg-l96hXQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BvbCbcfmXiGnILcviV5V2gDGhBu_dmv79OjJRMCcaMNM_3dFv58uKVUyBihuArfuowXcYplfEXCrhtYt_eQypQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2743,9 +2679,3 @@ This project will be developed continuously until I finish the tutorial on MDN.<
   </body>
 </html>
 
-=======
-# A-Primitive-Personal-Website
-This project is a html webpage: https://crisper-dong.github.io/A-Primitive-Personal-Website/. 
-I refer to the instructions on MDN https://developer.mozilla.org/en-US/docs/Learn, and create this personal site to practise my web-dev skills. 
-This project will be developed continuously until I finish the tutorial on MDN.
->>>>>>> 4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4
