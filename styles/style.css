@@ -3,7 +3,7 @@ html {
     font-family:"Times New Roman", Times, serif;
     line-height: 1.15;
     letter-spacing: 1px;
-    background-color: rgb(0, 155, 160);
+    background-color: rgb(0, 192, 192);
     padding: 20px 20px 20px 20px;
 }
 body {
@@ -29,7 +29,7 @@ img {
 p {
     color: rgb(192, 0, 0);
 }
-li:hover {
+li.crispy:hover, li.cheesy:hover {
     color: blue;
     border: 1px solid black;
 }

@@ -14,31 +14,35 @@ let commentStyle = ['color: rgb(255, 0, 0); text-align: left; font-size: 32px;',
 myImage.onclick = function() {
     chipsCondition = 1 - chipsCondition;
     refreshImg();
-    myComment.textContent = commentTxt[chipsCondition];
-    myComment.style.cssText = commentStyle[chipsCondition];
 }
 
 crispyChips.onclick = function() {
     chipsType = 0;
+    chipsCondition = 0;
     refreshImg();
 }
 
 cheesyChips.onclick = function() {
     chipsType = 1;
+    chipsCondition = 0;
     refreshImg();
 }
 
 function refreshImg(){
     myImage.setAttribute('src', 'images/' + chipsName[2 * chipsType + chipsCondition] + '.jpg');
+    myComment.textContent = commentTxt[chipsCondition];
+    myComment.style.cssText = commentStyle[chipsCondition];
 }
 
 if(!localStorage.getItem('name')) {
-    let storedName = "visitor";
+    let storedName;
+    setUserName();
+    myGreet.textContent = "Hello, " + storedName + ".";
 }
 else {
     let storedName = localStorage.getItem('name');
+    myGreet.textContent = "Hello, " + storedName + ".";
 }
-myGreet.textContent = "Hello, " + storedName + ".";
 
 function setUserName() {
     let myName = prompt(promptStr);
