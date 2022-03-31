@@ -3,16 +3,16 @@ html {
     font-family:"Times New Roman", Times, serif;
     line-height: 1.15;
     letter-spacing: 1px;
-    background-color: rgb(0, 192, 192);
+    background-color: #D6D6D6;
     padding: 20px 20px 20px 20px;
 }
 body {
-    width: 600px;
+    width: 800px;
     display: block;
     margin: 0 auto;
     padding: 20px 20px 20px 20px;
     border: 6px solid rgb(80, 80, 160);
-    background-color: rgb(216, 216, 216);
+    background-color: #E6E6E6;
 }
 h1 {
     font-size: 60px;
@@ -27,7 +27,11 @@ img {
     margin: 0 auto;
 }
 p {
-    color: rgb(192, 0, 0);
+    color: #555;
+}
+p.minor {
+    color:rgb(128, 128, 128);
+    font-size: 16px;
 }
 li.crispy:hover, li.cheesy:hover {
     color: blue;

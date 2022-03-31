@@ -18,53 +18,53 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-sD8zc/Dn1lguLc4FdbeVhD2gfxFCTXGr/y+MpJG3oX1vkAyaFf/7BHPtvv1dAHA0KG4bDEW3Ex1EPrzGTMtN2Q==" rel="stylesheet" href="https://github.githubassets.com/assets/light-b03f3373f0e7.css" /><link crossorigin="anonymous" media="all" integrity="sha512-V0872pNNqPTaPQFzdwX9tHIzJvB4F1Foi6VYDciZAMo/qHgBC8PvN2d/SkMweiNDbR6eF3cXcG0aPVrEtC8zqw==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-574f3bda934d.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-PzuUWYSTZfXfFMEstZYF7zd5TnBiunweYKf7SA0USRWwzNBPELoB8ZhGVGTwcMSwF5ff9kyBAdGzEbfJ2/4cig==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-3f3b94598493.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-PDguTqV/sgFBBIdGLWGe50pI4GUQjVg3NQIm1ue9+6Wtn5qdx122aGJ1/M6IydIYhVs1tRfeLBl8P+7lNRRHlg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-3c382e4ea57f.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-PZ0pkh4DltajJswDsmdCrHotI3eS5qb+etb48dcRDxUuiy0g2YP+kw5sQi04CE7AO+J33JXg86PAQoivVKkdKg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-3d9d29921e03.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-P+VDoZFVyqfAb06foA/ZLUzHkdMPqEQq1d1B0VSzEzOF3fidwKWULgI+b1E+OoF7VnC5HXRS4lMJPKKc6wrc8g==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-3fe543a19155.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-33ulzUgAM4pZv65KAcvjwZLHiC4bQaF61LiK9BiAQ/kuCG/+LtNi2clT1gfb72sa9SOsiu4fs4bEBL543Ms3Iw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-df7ba5cd4800.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-5ITBENg+F5FPizqEsxN2bcmczO46aikzj/TypfSsMeBhfQdvrwp+exPchAMYBksYmjzlK9JZ57G9b1EiEklI5A==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e484c110d83e.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-Q1pxMwbjf9TRvtZHxthjG2H2cG3oIZYMlJ1H0+LneQ/TwZf+CbwdS+DgpKaia34ugCjSJH92VUhslZFzhgUlng==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-435a713306e3.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-ayXlm8B066mM6BR2iSgRpYbKYRC9Enh0HnzRlf9no0/GyLOyJc61eboyu0zHCz3ZGu4xJo0nuyOCunSRTjMRFA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6b25e59bc074.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-p4ShjcZR/EJgf/cEieEqYD2znkfMm+ZCcW8M92V3njUlizkjgPbfbHbTgzS/uap+P4HgwLMNEmI+WhqZXAbF+Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a784a18dc651.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-5PxO6l9oTKozVtpDq8Tbn22voXMCYpKm7iY5nAC62h6HISfnvQPY9Mae+XRB8wf5OBnaqoPiLQWLpReQXP6yEA==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-e4fc4eea5f68.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-MZaR7MwVNJ3cHnY4UJHuMjPTAirAu5C6VtUTFx7vDrlt9kRKyYWBIJ/uG71w30FT7Cb/3I/nWg6huGwq6D892Q==" rel="stylesheet" href="https://github.githubassets.com/assets/github-319691eccc15.css" />
 
     <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20898546114&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20923036705&quot;, &quot;key&quot;: &quot;treatment_a&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20965581308&quot;, &quot;key&quot;: &quot;treatment_b&quot;}], &quot;id&quot;: &quot;20902325119&quot;, &quot;key&quot;: &quot;contact_sales_page_optimizations&quot;, &quot;layerId&quot;: &quot;20969031091&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 3330}, {&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 6670}, {&quot;entityId&quot;: &quot;20965581308&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [&quot;20902325119&quot;], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}], &quot;revision&quot;: &quot;1096&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-fYaOhKiBYu2l2N8TYhzAmL8NI29JO0uYReZhjKds75QkorZWT8qD5/VZ9zLHYqrjisTB6sGGf+5fEgDDAZ79iA==" src="https://github.githubassets.com/assets/runtime-7d868e84a881.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-32HPOwJkACFD9bjimEKNoj+NjB1UldIjZP5QxXOr6huISt7QYQxWwT23JQ1DoSy7hGfGRtDsthh0NmfzX3DyMg==" src="https://github.githubassets.com/assets/environment-df61cf3b0264.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-rB/EVqzuiKzqcb6RaaDSx+i7s/HApAXhuINThOQOfSCzOsY0zTZf2Ba2GjECWMqWsDjDbJBMP23O6Lc83vygpg==" src="https://github.githubassets.com/assets/9048-ac1fc456acee.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-HGeV9MtF7qlJk/b5sDswl5jAS3cfQncdrcrvwSIjS0FoGJanQ+P9873q4kkIRjiWs/98fqkXbbY/RoXHUCmSbA==" src="https://github.githubassets.com/assets/9758-1c6795f4cb45.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-jjPr0ZAftDw2p5OPu0DRLB9f7B5l1lZmKij0neI7TQquIKCMD6ZZTVqZTYimRo6PPUyegWiGbJmygZsiwlS43g==" src="https://github.githubassets.com/assets/6038-8e33ebd1901f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-+u8TeLdruMiWvmBpQNA4PToUts/HCYj6PPiDiVyAnWqVJqwcf8AifE6ulyXVXn3kdRBkue6o8KUb0mhSbSakiw==" src="https://github.githubassets.com/assets/github-elements-faef1378b76b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-1CFZIk8lImt34iQUo/3HIFBe1+1Vd0IizOZfrPZ7Od05aERgFuD7//t9q+PGhke3mf3Orz3ZQS7RjS17NwONyQ==" src="https://github.githubassets.com/assets/element-registry-d42159224f25.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Qv2lL056rpQocE0oqgYds356Kr0VteNXu+I2H+xqjO5p0YJ7aBCngsWeS1IszuUIaiEmDoOp7umaTcXQ5P75+w==" src="https://github.githubassets.com/assets/762-42fda52f4e7a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kyutNFnVyXNirOp6jgLzir/lHojSmZRtKkCvj/18DUnh7DOxXyxa1uE7JKsGnXyDFvyDXAz0P76liKUpyrl5+A==" src="https://github.githubassets.com/assets/8933-932bad3459d5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WOGryZiEX4rxCv+yzuST7+eEDb+yYgZI0/JXge0gHDt36/QbHlCyIukOTeTEcV5Owb10K6CZPzYkyRZrCIAmKA==" src="https://github.githubassets.com/assets/52-58e1abc99884.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-4LnNDBotTstM2Et+yZ2gqy7JvdmdSzxgBNgYXyMwcTBLSioeQ22M8v0V7Sj+TlUCJaPlk0kQjTwItcZ4NlMTXg==" src="https://github.githubassets.com/assets/7105-e0b9cd0c1a2d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-y0Ky7pWSieHl1aMPGzJ4HjAkahyiqC7ILqLq33fCkVXV/7s7AXm4y9vUMTjAsz4Kk6ASA3x/T/M67vaQUgmN3A==" src="https://github.githubassets.com/assets/2308-cb42b2ee9592.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-UQioBOJDApdwFc+p3sk/gCC7/AeniZ1u/g98H/QeeqYiYg5fivFgpe4L1q1y2OO5VjnB/CC/JpOU38OR1zsrOg==" src="https://github.githubassets.com/assets/2662-5108a804e243.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-s8ZmDpZrxT8b1b3xoPqoItmEV9dwiAYUuEMXY8O27eWNfzNxxCAgU355HQ+Mw2y5bqdyCI5T9LTfm9jKZBmFZQ==" src="https://github.githubassets.com/assets/9579-b3c6660e966b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/1Z+khw7i2eXHZO7nOUu8YqEpGNyOuTkQ4jH3olyybtuvY74E1Vl1KtdVHpGEJtGX0j7Rp/WHtPW+34mp5m8iA==" src="https://github.githubassets.com/assets/1201-ff567e921c3b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-MdAQnAIjkk36D6nf7khPxr37ryAaxRMZNAN47p+kePGU+xMi8jjXwpUhGuPvKeGeGhdHgNzTF7BK+NdgMnn6+A==" src="https://github.githubassets.com/assets/9508-31d0109c0223.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-d4G8CfA1nGLZ/x0iiKJ8KLjQdRINrecwBFPO3jrRjLlhGi85eXrns5d83iTh1MMZqX1YxWECCxYAKzlV0SO62A==" src="https://github.githubassets.com/assets/7595-7781bc09f035.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-tUmB+1MiatT/pKPCcCrp0W072U5zchoa94IGcRebc9q+npwEnS8n4Gs/mIIsX+3IBydAMdFJBJvKOUAFHb3vnw==" src="https://github.githubassets.com/assets/behaviors-b54981fb5322.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vZv147xO15/NwrEoMon2Lor5F4tSROpvyfxSqmUkr5RguhmLN7dhL6WaqFtGe+MapYypxQgz3XTi8RdZKiEfQw==" src="https://github.githubassets.com/assets/1953-bd9bf5e3bc4e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-tipZQwuAoWNATthGqZeoESE7ZamPYuJUIStl6htGuyyH5sFl/llEo+oQ5xiPF8FtaHi/DGWURjboDL5jLIk5sg==" src="https://github.githubassets.com/assets/notifications-global-b62a59430b80.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-kNTLYzLf9OE8/Gw3vPbafw6pC1O0V4A6r70qDTTzAVfPUf9br533nwmwYJ/FEJzLiWq4Kj98y5o2Nfcs1Mxp8w==" src="https://github.githubassets.com/assets/2975-90d4cb6332df.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-OUOcgpolKq37ix3n+1MwDJGSVqZ5IIrYLcN7g0nRm0CBKrddoXAAdpT7fjWWte/6GUgD35qZBcNNPiwcGaW8ZQ==" src="https://github.githubassets.com/assets/optimizely-39439c829a25.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xxAQo8UuHY7yQyM3UUNUUffL9a1iqePJ/et0uLTcIZ+nO/ensbzeT44PLq54Gxnc7kF2xwV6RsfkDWeRDLZaLQ==" src="https://github.githubassets.com/assets/7429-c71010a3c52e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-7tglo0ern9xE7zRfdh51LLnRSjQ3JfpX1t38tYICwiNrd+TNcSehyiDeFW+T5JAT9kqCLoTcAdsW3dbw4uydSg==" src="https://github.githubassets.com/assets/3578-eed825a347ab.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Sdwc3+z/WPKJn72KWAnQ6kRBxE5fePZR8idB0QDEAEFL8NGySe0iXZoVfKymgjPGcIWO3jv+wZ4PV1nptAg7ZA==" src="https://github.githubassets.com/assets/7460-49dc1cdfecff.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JVgWk1Zv08LwYW1JrEQguNIE/6hcdJQMfZGG/u2HUpNzl3znv2t8/7DzPkZ1a4S/0CABw/qdsSFJ+X3QSnNo0A==" src="https://github.githubassets.com/assets/5283-25581693566f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-9H6wcshr4rCQGX+2vY6/0dXQZLF8UifLVJEv1XsmUu1AGEJAOsM0JD0eYJdbz7A3i6uGxjt9ZMW1MDf/7vIyWw==" src="https://github.githubassets.com/assets/repositories-f47eb072c86b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-UmQ0f5IIecsS2u18MoEbBzH2rch0V51PGjI3354Th21Q7kfV4q8SEQokEcPOTT+xuZazv3jxoKCeMl8V+1SbcA==" src="https://github.githubassets.com/assets/diffs-5264347f9208.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-+B1ug6tbKx1ZKCMzp1g1m7CsPZQhlQbrz39NXJ+y7Ql054oZWyZJRcqZ1AVOgc/wfYONHcfH8TIu98huxQHRJQ==" src="https://github.githubassets.com/assets/runtime-f81d6e83ab5b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-I8mzhzKV3WvVPaipkWqkYRXva5nI9R34j2oGU/8SkC8PrKpEqQPMrkLQZff/zFVhMIXl8i9v5+PpozoRW+RcNA==" src="https://github.githubassets.com/assets/environment-23c9b3873295.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-mNt9opq5jyqeZdWMV25dquh3PeAJZk/NFBfdGMUbTN7JB344FlZu6Jr8g/ieGGy+3sy5REA/uZXM0GmGKqOpcw==" src="https://github.githubassets.com/assets/5329-98db7da29ab9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-9n/KDFl7RTBwlMhFd7BrFVXj5dJnvyMjRzKu4rxr4eKDf8zqcP3hbZVzCiBdR0e0jS2L8asQfzsnHSK2c+ZF7g==" src="https://github.githubassets.com/assets/2486-f67fca0c597b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qNL70NcbKIFaK7Pc/pynQJLTpp1jZIBaFA7o31IrfbYEiuDqi/TnCkEU4QxKSVaLxtt5B1Y6zNRz2iUgqaqdew==" src="https://github.githubassets.com/assets/8475-a8d2fbd0d71b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-H/F50N+M9z2+JkI/7v34Hcedrm01LD6TPomVD3jiqhDkjk/uIAate1EKFGfoQOT+jJGEOuWw7zxoXd/MpeD6qg==" src="https://github.githubassets.com/assets/github-elements-1ff179d0df8c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qoe4a0rbf/a7flufGgla8SWMel24jStMi0ITDQ91AUixRDhulPUfyQWAMtsRNVokEFDHgWZLBD02RlZcwKtpWQ==" src="https://github.githubassets.com/assets/element-registry-aa87b86b4adb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZAKZQWCEc6bs9LSQOCPRWq3wqRDkQxG2bPL/pW9Lj/Seap0PV0kF/yKCHske8mW3Zytde9n1Im83jxrCmpaMrA==" src="https://github.githubassets.com/assets/5724-640299416084.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Hb8d69V10VxkC90NX3zvjNovHq5vrRv0XCde5qNf5WiQAB6BziCN+gEbKG+fDj8i05B2pBdyGIh+3pmaRvzLJA==" src="https://github.githubassets.com/assets/5388-1dbf1debd575.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-j9tCiIT7h+++Hko9qwRezOfoO32kBBlf6Te9zZyxxmrxG1EA5ji2QCYAIzd5vXB7616gZ5m9J+WMQwv3VEf1wA==" src="https://github.githubassets.com/assets/93-8fdb428884fb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JPHg6lXC/kVMbA05VoaD5W739fMUF/ObaJ4NrZWLi91OWI9xEhJ9NtwbGROmxjCm5FGwNOVohY+DXILkO19dtA==" src="https://github.githubassets.com/assets/8932-24f1e0ea55c2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-heG3JMoQq3ducVj0rke7ixXR6HU4XKtSlNnKQ6uGDD+JjKmcpeXRiBBQnX1biRw9F33Eyqkqv7wifIWv4lEk/Q==" src="https://github.githubassets.com/assets/1717-85e1b724ca10.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-n2oK+L9azw6RosotvTCUd1Jxr802Hv6tJyGrbiZO2D0Dy1kWE/qXLS6fPc7EcQH5DiSpLHJsySDgDRuC40TbUA==" src="https://github.githubassets.com/assets/901-9f6a0af8bf5a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/V7241I4oTyrmfzf1ZLgzrDMftUwrGlFXG26BaMgW8Koi8/8InvjGu+skviYVpZN5G4FOCsUNoE3zS6R73Sqgg==" src="https://github.githubassets.com/assets/3682-fd5ef6e35238.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-HAkxnw9T7k6o8jrwnCU02jjyGxcy4XwAFi4EahWVnXfnZNapkX5FKajEOzz7QakIoYSzQYxKHedPAhw8RuwAsw==" src="https://github.githubassets.com/assets/3932-1c09319f0f53.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6Z042pDIkQL8gBC8c8IuDLV2NrsRl4D0rQ/zMAIpjGgSWuzL3H0iXADdpwlB/L00dl0Nus2uL3JBUcQYcWPP0w==" src="https://github.githubassets.com/assets/3826-e99d38da90c8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-yvzIhSyniMQb1fkQ7iaHIxqVCwk34Zd7jEqriSPiBq4N+M4hHPyOhOQYnBupCQwgwE6iHHbWPQpX18Hu4HXVfQ==" src="https://github.githubassets.com/assets/5222-cafcc8852ca7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-yZKOLp1buLAGVIkEx6IvRYIcJILm1ZPynCZ2a2cVkHj9iWZEwls3G5vOGoTNI882gv8FZWGcpU8YCFVbxQBA5A==" src="https://github.githubassets.com/assets/behaviors-c9928e2e9d5b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-gy8qIM5ywfZwY9t64qGa3rDcqWJGKXayF+CsUt0owghpz2eqnNX2tMtSRRdOybIIwu6cScH/b8SkXvSHQt5qow==" src="https://github.githubassets.com/assets/7749-832f2a20ce72.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-XWCpyEQy0ukcAhCgvebb7RhB3Gl9ap6gzdKXsD2zOb099rINj1JJNqwQl3xCEzq4VQKz0OTVRe+2f9RiPrEBcQ==" src="https://github.githubassets.com/assets/notifications-global-5d60a9c84432.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-CXG0JIxMwRoz4AhA97h6N2FXg+xKzJMJqAoIjzJlUwcmof+tDjD61i1wEGsUANoz0VSlCYySZVt6/4D1rh3ZgQ==" src="https://github.githubassets.com/assets/4978-0971b4248c4c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-u/fWShpeYAAqJzy1aEAd92F1lWo9D/XKncPovPz7+k9ZoLOB+NJTYQj4AgCkqng959VOefQjWgVPOSXbG1dqFA==" src="https://github.githubassets.com/assets/optimizely-bbf7d64a1a5e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xyGHYwjeMuGHmOdgy9Kb/p7zpSxjrw197tH6c+PzJj3L9zUCmjXBRbPky6B3Dqc/dN0x6OPF7n2Uh5u5MdbVUw==" src="https://github.githubassets.com/assets/90-c721876308de.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-AYqt3h3e9yBPkTVipsLLUCU2qCv7M31EodfqWxo5UKYyx8iI44MniIvWI5K+skqivkk0Auq3QaWslerlSihYqA==" src="https://github.githubassets.com/assets/6813-018aadde1dde.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-fVWEYrwNiNqMDgK2qU/B+IumJZbvKseQoon/V//Dxcm9+btlS1AEfEWqogm9ZVQtDGEeu+fyazqJuSOxYsqSLA==" src="https://github.githubassets.com/assets/6637-7d558462bc0d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/QlUgO5cJKKqK71jHy3JgJbh7lu8OmQCyC9bRthe/2Oe6exWHKdR9a3il0Qz1DP+UM5BSGcdh0AF9woPn80kUg==" src="https://github.githubassets.com/assets/6791-fd095480ee5c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IIxK8FhcKILtaqpL41RZDRx2+5bMvqOMrZmaFwzJU4sy9OwoqEd1lP8ZCi1LrRAZBU2SkkHk2o1dr1Qsco7msg==" src="https://github.githubassets.com/assets/repositories-208c4af0585c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-FcPG85tQcvQQcW67wmp069DaTyZlqqLodSNqJ7DzjAFfffO0P2TZyzT9WWSGVnh4lb0KLTv+qweWAwDVh8+XzA==" src="https://github.githubassets.com/assets/diffs-15c3c6f39b50.js"></script>
   
 
   <meta name="viewport" content="width=device-width">
   
-  <title>A-Primitive-Personal-Website/README.md at main · Crisper-Dong/A-Primitive-Personal-Website</title>
-    <meta name="description" content="Contribute to Crisper-Dong/A-Primitive-Personal-Website development by creating an account on GitHub.">
+  <title>blog/README.md at main · Crisper-Dong/blog</title>
+    <meta name="description" content="Contribute to Crisper-Dong/blog development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/69de2de5e221ff43569a9af4d1206cd49d162d7516fcfd9b86e4de7f3ec086e2/Crisper-Dong/A-Primitive-Personal-Website" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="A-Primitive-Personal-Website/README.md at main · Crisper-Dong/A-Primitive-Personal-Website" /><meta name="twitter:description" content="Contribute to Crisper-Dong/A-Primitive-Personal-Website development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/69de2de5e221ff43569a9af4d1206cd49d162d7516fcfd9b86e4de7f3ec086e2/Crisper-Dong/A-Primitive-Personal-Website" /><meta property="og:image:alt" content="Contribute to Crisper-Dong/A-Primitive-Personal-Website development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="A-Primitive-Personal-Website/README.md at main · Crisper-Dong/A-Primitive-Personal-Website" /><meta property="og:url" content="https://github.com/Crisper-Dong/A-Primitive-Personal-Website" /><meta property="og:description" content="Contribute to Crisper-Dong/A-Primitive-Personal-Website development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/820e0d9b2d8cfb0eafb09d43d4457c0dc1899b3e4b39722965019f7fffba0995/Crisper-Dong/blog" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="blog/README.md at main · Crisper-Dong/blog" /><meta name="twitter:description" content="Contribute to Crisper-Dong/blog development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/820e0d9b2d8cfb0eafb09d43d4457c0dc1899b3e4b39722965019f7fffba0995/Crisper-Dong/blog" /><meta property="og:image:alt" content="Contribute to Crisper-Dong/blog development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="blog/README.md at main · Crisper-Dong/blog" /><meta property="og:url" content="https://github.com/Crisper-Dong/blog" /><meta property="og:description" content="Contribute to Crisper-Dong/blog development by creating an account on GitHub." />
     
 
 
@@ -72,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93034081/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzAzNDA4MSwicyI6ODUzMzAwOTIzLCJjIjozMTM1ODg3Nzc4LCJ0IjoxNjQ4MjgyMTUyfQ==--32c79f2013d5df03eed1b0e76415fe8d9e2d50d0c5ba65c8c8b5e13085b3bfe7" data-refresh-url="/_alive" data-session-id="d2001045a15c82d226e9923be9080bceabda47033d5fdd9efe86676d2649137d">
-    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-dae024e51136.js">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93034081/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzAzNDA4MSwicyI6ODUzMzAwOTIzLCJjIjoxNDI5MTQ4NTczLCJ0IjoxNjQ4NzI5ODY3fQ==--49e376b70ed5031389708d4820368ac485125dfe99aa033eacf5eb80ed232b0c" data-refresh-url="/_alive" data-session-id="d2001045a15c82d226e9923be9080bceabda47033d5fdd9efe86676d2649137d">
+    <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-833ef0d9f783.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FC6E:5A0E:A7A9D8:CC16CE:623ECA28" data-pjax-transient="true" /><meta name="html-safe-nonce" content="fc36d552ce2b12117481f8b465f7732ceda8ed9aa6040393b878ef6cf4810748" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DcmlzcGVyLURvbmcvQS1QcmltaXRpdmUtUGVyc29uYWwtV2Vic2l0ZSIsInJlcXVlc3RfaWQiOiJGQzZFOjVBMEU6QTdBOUQ4OkNDMTZDRTo2MjNFQ0EyOCIsInZpc2l0b3JfaWQiOiIxNzM1ODc3MDM1MDg0NTYyMjc3IiwicmVnaW9uX2VkZ2UiOiJhcC1ub3J0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="0fb4b281611216a8006e69ab7a48b350375f4bbcf8515505056566e1e7944376" data-pjax-transient="true" />
+  <meta name="request-id" content="C56B:669F:1CC15D:22E9FB:62459F07" data-pjax-transient="true" /><meta name="html-safe-nonce" content="fc36d552ce2b12117481f8b465f7732ceda8ed9aa6040393b878ef6cf4810748" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DcmlzcGVyLURvbmcvYmxvZy9maW5kL21haW4iLCJyZXF1ZXN0X2lkIjoiQzU2Qjo2NjlGOjFDQzE1RDoyMkU5RkI6NjI0NTlGMDciLCJ2aXNpdG9yX2lkIjoiMTczNTg3NzAzNTA4NDU2MjI3NyIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="cfff925c4fc5cc64b86236029648f2e0fa736ce68a06e65d43a6eacecdc82c43" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:474048654" data-pjax-transient>
 
@@ -112,25 +112,25 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZjJmMDE5NWQ3NmU3MjI1ZDUwMDhjODA0MDVhYTllOGQzZmQwY2M3ODUzY2IyNDBmZTAyNjdjY2YyNGJiMzBkNnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjEzNy42My4zNiIsInJlcXVlc3RfaWQiOiJGQzZFOjVBMEU6QTdBOUQ4OkNDMTZDRTo2MjNFQ0EyOCIsInRpbWVzdGFtcCI6MTY0ODI4MjE1MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZDBlNmJiYTYxZDdmYTI3M2Q1OWY5Y2M2MTVjNDQwNTI2Yzk4YWM5NDNmZDJiODYwNjIxYWNhYzVmYTU0Yjg2ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTA0LjE0OS4xNDYuMjI2IiwicmVxdWVzdF9pZCI6IkM1NkI6NjY5RjoxQ0MxNUQ6MjJFOUZCOjYyNDU5RjA3IiwidGltZXN0YW1wIjoxNjQ4NzI5ODY3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
 
-  <meta http-equiv="x-pjax-version" content="0b6ff9b08e9894f8a14a08acc72ba434b1c415a9dc43def502e761ecf7d53018" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-csp-version" content="ad743a89372c421844ffcba4fd906096b07b7fd7c2a57617ff2d2f0fdf463e56" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="86d2d4ea10a220ddb623a8bb048d6dc4179303cad0c435c106140a1347c4628f" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="7096bfcb0bf7c93d3844820e02b968d3df4b10ebb5f65767fe68d6906873d362" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="20952475b2fe212515dadf0bca7ef954dc3c6d993a255da91fa03240525e9b68" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="fae078b7b0f21a3e87927a83cac351f9689d75ae7723ea091b3b1ae42747c273" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="7a6987e1e2a64c7428e128be3752bd53be6e06321326240d3246e908ca594138" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="156ce1778631a979d59638182702dc072be0dbf17a7f8e3c377d008ae1f612e1" data-turbo-track="reload">
   
 
     
-  <meta name="go-import" content="github.com/Crisper-Dong/A-Primitive-Personal-Website git https://github.com/Crisper-Dong/A-Primitive-Personal-Website.git">
+  <meta name="go-import" content="github.com/Crisper-Dong/blog git https://github.com/Crisper-Dong/blog.git">
 
-  <meta name="octolytics-dimension-user_id" content="93034081" /><meta name="octolytics-dimension-user_login" content="Crisper-Dong" /><meta name="octolytics-dimension-repository_id" content="474048654" /><meta name="octolytics-dimension-repository_nwo" content="Crisper-Dong/A-Primitive-Personal-Website" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="474048654" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Crisper-Dong/A-Primitive-Personal-Website" />
+  <meta name="octolytics-dimension-user_id" content="93034081" /><meta name="octolytics-dimension-user_login" content="Crisper-Dong" /><meta name="octolytics-dimension-repository_id" content="474048654" /><meta name="octolytics-dimension-repository_nwo" content="Crisper-Dong/blog" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="474048654" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Crisper-Dong/blog" />
 
 
 
-    <link rel="canonical" href="https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Crisper-Dong/blog/blob/main/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -164,10 +164,10 @@
       
 
 
-        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-+EkHyTyMKL4C3n8EfuoQu/99gJNPozXTtAfaYO3xdHa8BGJeiLMjZZpkxSJIn/oUN42hSKuLNGezsLNZSMWwqQ==" src="https://github.githubassets.com/assets/2403-f84907c93c8c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-9EJuJYdCh6MaxAhNcj0MpJh/fu33M4MaiAFNsiG9zES+EpCmDPotg257ZgEz5jaDI//MlhdKFq4i4JNMgoMY+A==" src="https://github.githubassets.com/assets/2243-f4426e258742.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-cb0IVhqsSVJ4KicfGlV9sgVFhGklISyQ8I6C+XGo12qll/Yhy8kb2hESJmLdz4UZskMW4K9vfjkYxaa+Q/phEA==" src="https://github.githubassets.com/assets/7818-71bd08561aac.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-hYj4NA24ytssbd1h0zme9H9zorv/QWIwQM+RwGGH733l9FIa54famzF/4dFU5t9g3I5FOZEMor3zTNxsxvJJBg==" src="https://github.githubassets.com/assets/command-palette-8588f8340db8.js"></script>
+        <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-dp9NWljGko4dWiA5IsI4nM0UjWZQM6o/KauF1OpLp6T78Wc9p0khjP3HeHjlb4pUR6sI0Dgq1KvLjFWH6U3aOg==" src="https://github.githubassets.com/assets/6319-769f4d5a58c6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-8yNF7k3IEYK6K9eB12rJ6qC+VbM5G5yaZnl/i5YB2VB5/o76R/gvSNNWeUb1q+yBgdPKiG/jJpKFUygD26y+Iw==" src="https://github.githubassets.com/assets/9255-f32345ee4dc8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0vqniFrkscBAFewT6Krki8kE7HdoGwuodX8cWsap+/0JGWpw5xpGRXmfjIMqVihDdgJeI0aKJEqqsp0epWGabQ==" src="https://github.githubassets.com/assets/5623-d2faa7885ae4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-F4KJWSjKysCe1wHNxusL4tGUy3gWz9yhD1PgmZIaAqc5AtE+tJG5Ok29Kql8rORj3dEitg76yFscVkxlH3ZljQ==" src="https://github.githubassets.com/assets/command-palette-1782895928ca.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
@@ -200,7 +200,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="474048654" data-scoped-search-url="/Crisper-Dong/A-Primitive-Personal-Website/search" data-owner-scoped-search-url="/users/Crisper-Dong/search" data-unscoped-search-url="/search" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="474048654" data-scoped-search-url="/Crisper-Dong/blog/search" data-owner-scoped-search-url="/users/Crisper-Dong/search" data-unscoped-search-url="/search" data-turbo="false" action="/Crisper-Dong/blog/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -221,7 +221,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="kSC41IVlvI0I0jB5ZFpSkxV64rJI1NSZ0QFvY4fTvwzBqOUt2nT843GzCcFbuIBjniabaXCkSbrink1X0fAqZQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="yi4tlfJScqFQhHlYDD2QqAMvYUn74nHE4d-TTBP86YKapnBsrUMyzynlQOAz30JYiHMYksOS7OfSQLF4Rd986w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -420,7 +420,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Crisper-Dong&quot;,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="da7adddde796d68d1dc9debcf8289092f10537450e572c567c8db29e492da42a" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Crisper-Dong&quot;,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="9fce2b356dcc3a0d9962b4bb3a8386a091853cf6ee19d8b92aa0e4a8f6dad1c2" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -428,7 +428,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/93034081?s=40&amp;v=4" width="20" height="20" alt="@Crisper-Dong" />
       Crisper-Dong
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xcyNkkf2rcT5D40sIXO7IvFgmRnj5gq8Niu9dlcjIswm-Gi7Hz7RGnu1rXhKNNl4s6-sATHCAVl07JZEu_PVGA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ePQwAJfXD1OnMhWjU43diaNA8DQcjw576_hFSmaRwdObwNUpzx9zjSWINfc4yr_T4Y_FLM6rBZ6pP254ikE2Bw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -467,7 +467,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTMwMzQwODEiLCJ0IjoxNjQ4MjgyMTUyfQ==--3b5cacdf2f4034a98e9cf682943acf9951a4249d160d63c5f5836b7ece827452">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTMwMzQwODEiLCJ0IjoxNjQ4NzI5ODY3fQ==--16697b33d0353bbbcdb6a932ddb7c99b95c62b63451edb8b7f7c249c843c6085">
         <a href="/notifications"
           data-turbo=false
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -604,7 +604,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md
+      data-return-to=/Crisper-Dong/blog/blob/main/README.md
       data-user-id="93034081"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,7 +617,7 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="r2frbd4e1Bc39vO0lc-8aJMPV9DzGIXntJAjclTjchJwMwwRHCNjC0BzUzaHlgHKlXGYycXVoJapsgj1Z24BxA" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="lwQuPlAP-ozMP_zCnE9J15obaub9ywj-xKVVaE0PPZ1IUMlCkjJNkLu6XECOFvR1nGWl_8sGLY_Zh37vfoJOSw" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -712,14 +712,14 @@
                 style="white-space:nowrap;line-height:20px;"
                 >Crisper-Dong<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="A-Primitive-Personal-Website"
+                data-text="blog"
                 data-id="R_kgDOHEFojg"
                 data-type="repository"
-                data-value="A-Primitive-Personal-Website"
+                data-value="blog"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >A-Primitive-Perso...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >blog<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -768,6 +768,7 @@
         >
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode=""
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -782,6 +783,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode=""
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -856,6 +858,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode=""
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -870,6 +873,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode=""
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -884,6 +888,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode="#"
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -898,6 +903,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode="#"
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -912,6 +918,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode="#"
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -941,6 +948,7 @@
             </command-palette-tip>
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
+                data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
               data-mode="#"
               data-value="">
               <div class="d-flex flex-items-start flex-justify-between">
@@ -979,7 +987,7 @@
               data-group-id="commands"
               data-group-title="Commands"
               data-group-hint="Type &gt; to filter"
-              data-group-limits="{}"
+              data-group-limits="{&quot;static_items_page&quot;:50}"
               data-targets="command-palette-item-stack.groups"
             >
             </command-palette-item-group>
@@ -1482,7 +1490,7 @@
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" href="/Crisper-Dong/A-Primitive-Personal-Website">A-Primitive-Personal-Website</a>
+    <a data-pjax="#repo-content-pjax-container" href="/Crisper-Dong/blog">blog</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1494,7 +1502,7 @@
 
   <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Gx_8UZOU4ZCOHq0yLD4emuHrMqtrfvAPKgOtVjXuE-KbR1aH9KPdYF0xD-RnYBKXe7WAmh2mgyxvL-LWznpFJw" autocomplete="off" />
+    <form data-turbo="false" action="/Crisper-Dong/blog/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0mfstYsMhSAZ7NttLWZUrKPsBI81fMSMjIaRWtW-IZ0Z--zkN5KzosUbJO7NGJ55Z3zFdXmGDzWrVAHiRSHnnQ" autocomplete="off" />
       <button type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1513,7 +1521,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="d2f69c4f7e17bfe0d211ca6bdb31896e7c762d5c2747113c1dfbd6eb74801c0e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="819eb3008a39f5a399b3dd008b7d9e12bed6eee700d5163620a3a1c4538356f6" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               
               
@@ -1565,7 +1573,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vpu0hD2GyMb7IxoJHP1wHN7Ss5niMFDn-2k7SR_OHg67MAzqZMFzzJS6K9le5vuU9WwSk68_vw4d82dt8mY0FA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3SWG21_C78-ukhzQBc8mZXqm0uDOhvVM-toSXbusBSEwjj61BoVUxcELLQBH1K3tURhz6oOJGqUcQE55VgQvOw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="474048654">
 
@@ -1693,7 +1701,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zDhkAzzS1stMOq3ROvtiNSmQq76RVuXoMBjGFxo8DUYhk9xtZZVtwSOjnAF44Om9Ai4KtNxZCgHWgpoz95QnXA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aBHIELNCaQV2CeFQ9n6ZAKeI5rUf5J-b1vXtN-XmKWaFunB-6gXSDxmQ0IC0ZRKIjDZHv1LrcHIwb7ETCE4DfA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="474048654">
 
@@ -1838,11 +1846,42 @@
   </li>
 
   <li>
-          <button aria-label="Cannot fork because you own this repository and are not a member of any organizations." disabled="disabled" type="button" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <div class="float-left">
+        <details class="details-reset details-overlay details-overlay-dark " >
+                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="03c4068243cd00037e7d54861320eecadb7977bc897cf14d840d9522b3a59700" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Crisper-Dong/blog to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-      <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</button>
+              <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+</summary>
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
+      aria-label="Fork blog"
+      src="/Crisper-Dong/blog/fork?fragment=1"
+      preload
+    >
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+      <h1 class="Box-title" >Fork blog</h1>
+    </div>
+      
+          <div class="text-center">
+            <include-fragment>
+              <svg aria-label="Loading..." style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-5 anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+              <p class="f5 color-fg-muted">If this dialog fails to load, you can visit <a href="/Crisper-Dong/blog/fork">the fork page</a> directly.</p>
+            </include-fragment>
+          </div>
+
+  </details-dialog>
+</details>
+      </div>
+
   </li>
 
   <li>
@@ -1865,18 +1904,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hSKX3qgBHu6imIFUcjl8IYi0WT0WhMr3-7kvf3kuQZw13iP_HaTZymboEnFuteK-HevY6DkdsULS2x_am4vxeA" autocomplete="off" />
-        <input type="hidden" value="aJAXwXNguHsrIf0sioHbGOZeh3_2KfPOXNqSfUXRVQPYbKPgxsV_X-9RbgmWDUWHcwEGqtmwiHt1uKLYp3Tl5w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Crisper-Dong/blog/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P0DrTHsgFwF5-k05B6-4kZplCofQoYIsnlaJ0vIzjdonU7FT0xgMmnUFzIJSzSTu7NrnRGPUzRS7o6-nNUK83w" autocomplete="off" />
+        <input type="hidden" value="L-toZjKrOIcQvf4d-UEmGOfqMxw9fzueSwZXo7r7GGM3-DJ5mpMjHBxCf6asI7pnkVXe344KdKZu83HWfYopZg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="9213b3a120bd731968603a088886dbd86da013ad622a87ef1a14d8d865c67c22" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="b24e4aed0df722987b13df8af19bb8ef7943d3e2ae76449d65fb2598f9ddf6ab" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QPk16TzKqeCMJHuZnBteBvnD5yTbKLt7IM9l0cUv5FGXL9yJbh2F9gCaQtFwstgntj2MD9yE_qIkks_4UKf6CQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Crisper-Dong/blog/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6zxeipakUXv4e7rEdaJhxh7HMKbzDS8GO_6C1CM9jdd4bdM4MRjlpy1ew2DZ0w-dwFFrQIUiZq36jCk1z1vs4g" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="8a5e4292f5c32404a832df92de7cb0dbedefb2d8f2dd3f5c408c596f6bb025b3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="d214d3a22795fc0132a55fb763a45e93a6aa9edc8d8fb3d0613fb27b214a35ce" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1889,19 +1928,19 @@
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Crisper-Dong/A-Primitive-Personal-Website/lists"
+      src="/Crisper-Dong/blog/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3b970c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6bb64f">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3b970c"
+        id="filter-menu-6bb64f"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1938,7 +1977,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Crisper-Dong/A-Primitive-Personal-Website" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Crisper-Dong/A-Primitive-Personal-Website" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Crisper-Dong/blog" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Crisper-Dong/blog" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -1950,7 +1989,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Crisper-Dong/A-Primitive-Personal-Website/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Crisper-Dong/blog/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Crisper-Dong/blog/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -1962,7 +2001,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Crisper-Dong/A-Primitive-Personal-Website/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Crisper-Dong/blog/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Crisper-Dong/blog/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -1974,7 +2013,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Crisper-Dong/A-Primitive-Personal-Website/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Crisper-Dong/blog/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Crisper-Dong/blog/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -1986,7 +2025,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Crisper-Dong/A-Primitive-Personal-Website/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Crisper-Dong/blog/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Crisper-Dong/blog/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -1998,7 +2037,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Crisper-Dong/A-Primitive-Personal-Website/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/Crisper-Dong/blog/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Crisper-Dong/blog/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2010,18 +2049,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Crisper-Dong/A-Primitive-Personal-Website/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Crisper-Dong/blog/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Crisper-Dong/blog/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/Crisper-Dong/A-Primitive-Personal-Website/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/Crisper-Dong/blog/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Crisper-Dong/A-Primitive-Personal-Website/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Crisper-Dong/blog/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Crisper-Dong/blog/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -2033,7 +2072,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="settings-tab" href="/Crisper-Dong/A-Primitive-Personal-Website/settings" data-tab-item="i8settings-tab" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Crisper-Dong/A-Primitive-Personal-Website/settings" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Settings tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="settings-tab" href="/Crisper-Dong/blog/settings" data-tab-item="i8settings-tab" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Crisper-Dong/blog/settings" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Settings tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -2057,39 +2096,39 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Crisper-Dong/A-Primitive-Personal-Website" href="/Crisper-Dong/A-Primitive-Personal-Website">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Crisper-Dong/blog" href="/Crisper-Dong/blog">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Crisper-Dong/A-Primitive-Personal-Website/issues" href="/Crisper-Dong/A-Primitive-Personal-Website/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Crisper-Dong/blog/issues" href="/Crisper-Dong/blog/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Crisper-Dong/A-Primitive-Personal-Website/pulls" href="/Crisper-Dong/A-Primitive-Personal-Website/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Crisper-Dong/blog/pulls" href="/Crisper-Dong/blog/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Crisper-Dong/A-Primitive-Personal-Website/actions" href="/Crisper-Dong/A-Primitive-Personal-Website/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Crisper-Dong/blog/actions" href="/Crisper-Dong/blog/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Crisper-Dong/A-Primitive-Personal-Website/projects?type=beta" href="/Crisper-Dong/A-Primitive-Personal-Website/projects?type=beta">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Crisper-Dong/blog/projects?type=beta" href="/Crisper-Dong/blog/projects?type=beta">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Crisper-Dong/A-Primitive-Personal-Website/wiki" href="/Crisper-Dong/A-Primitive-Personal-Website/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Crisper-Dong/blog/wiki" href="/Crisper-Dong/blog/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Crisper-Dong/A-Primitive-Personal-Website/security" href="/Crisper-Dong/A-Primitive-Personal-Website/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Crisper-Dong/blog/security" href="/Crisper-Dong/blog/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Crisper-Dong/A-Primitive-Personal-Website/pulse" href="/Crisper-Dong/A-Primitive-Personal-Website/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Crisper-Dong/blog/pulse" href="/Crisper-Dong/blog/pulse">
                     Insights
 </a>                </li>
                 <li data-menu-item="i8settings-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Crisper-Dong/A-Primitive-Personal-Website/settings" href="/Crisper-Dong/A-Primitive-Personal-Website/settings">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Crisper-Dong/blog/settings" href="/Crisper-Dong/blog/settings">
                     Settings
 </a>                </li>
             </ul>
@@ -2120,7 +2159,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Crisper-Dong/A-Primitive-Personal-Website/blob/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Crisper-Dong/blog/blob/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2176,12 +2215,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/Crisper-Dong/A-Primitive-Personal-Website/refs"
+            query-endpoint="/Crisper-Dong/blog/refs"
             can-create
             cache-key="v0:1648220518.548651"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="Q3Jpc3Blci1Eb25nL0EtUHJpbWl0aXZlLVBlcnNvbmFsLVdlYnNpdGU="
+            name-with-owner="Q3Jpc3Blci1Eb25nL2Jsb2c="
             prefetch-on-mouseover
           >
 
@@ -2190,7 +2229,7 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="upakKZMpY69XjTUBgw6-y7tksfirnv1C5Y_nccvu1-Ig-yPdPHn1x6EcgKgz0ROjUUh9F-ykd-lc_cwGWALIwA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Crisper-Dong/blog/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fquClowOzewX7f72afMHfH_9bAsTwrHYnUcSwRg329a0CuxoGWEL03D4eh1FZHsfJaEndh3Ebthg0TRobmqtrg" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
       <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
@@ -2218,7 +2257,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Crisper-Dong/blog/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2228,7 +2267,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/Crisper-Dong/A-Primitive-Personal-Website/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Crisper-Dong/blog/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2242,11 +2281,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/Crisper-Dong/A-Primitive-Personal-Website/refs"
+            query-endpoint="/Crisper-Dong/blog/refs"
             cache-key="v0:1648220518.548651"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="Q3Jpc3Blci1Eb25nL0EtUHJpbWl0aXZlLVBlcnNvbmFsLVdlYnNpdGU="
+            name-with-owner="Q3Jpc3Blci1Eb25nL2Jsb2c="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2258,7 +2297,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Crisper-Dong/blog/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2276,7 +2315,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/Crisper-Dong/A-Primitive-Personal-Website/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Crisper-Dong/blog/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2289,9 +2328,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Crisper-Dong/A-Primitive-Personal-Website"><span>A-Primitive-Personal-Website</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Crisper-Dong/blog"><span>blog</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-  <a href="/Crisper-Dong/A-Primitive-Personal-Website/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
+  <a href="/Crisper-Dong/blog/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
   <summary role="button" data-view-component="true" class="btn">  <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2300,7 +2339,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="7cca05c42b3d2aaf678481f83c2531e7e154267fa7f498937444ddfec5518e75" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Crisper-Dong/A-Primitive-Personal-Website/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="34cef97b4d50a33120d4fad432b8f468766bbef20f15185623e2b0c772958af1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Crisper-Dong/blog/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2318,7 +2357,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Crisper-Dong/blog/blob/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2347,10 +2386,10 @@
   
 </div></div>
 
-    <include-fragment src="/Crisper-Dong/A-Primitive-Personal-Website/spoofed_commit_check/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Crisper-Dong/blog/spoofed_commit_check/f6a55b67b1240f946108c1ecf044c81f4912fe8f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Crisper-Dong/A-Primitive-Personal-Website/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/Crisper-Dong/blog/contributors/main/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2383,31 +2422,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      4 lines (4 sloc)
+      5 lines (4 sloc)
       <span class="file-info-divider"></span>
-    351 Bytes
+    332 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md?plain=1" data-permalink-href="/Crisper-Dong/A-Primitive-Personal-Website/blob/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <a href="/Crisper-Dong/blog/blob/main/README.md?plain=1" data-permalink-href="/Crisper-Dong/blog/blob/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>    <a href="/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md" data-permalink-href="/Crisper-Dong/A-Primitive-Personal-Website/blob/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>    <a href="/Crisper-Dong/blog/blob/main/README.md" data-permalink-href="/Crisper-Dong/blog/blob/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Crisper-Dong/A-Primitive-Personal-Website/raw/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md" href="/Crisper-Dong/A-Primitive-Personal-Website/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/Crisper-Dong/A-Primitive-Personal-Website/blame/4b5d4009ea1aa4e5c46a70f5a4c8937215d5a2a4/README.md" href="/Crisper-Dong/A-Primitive-Personal-Website/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/Crisper-Dong/blog/raw/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md" href="/Crisper-Dong/blog/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/Crisper-Dong/blog/blame/f6a55b67b1240f946108c1ecf044c81f4912fe8f/README.md" href="/Crisper-Dong/blog/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/Crisper-Dong/A-Primitive-Personal-Website?branch=main&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/Crisper-Dong/blog?branch=main&amp;filepath=README.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2415,11 +2454,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Crisper-Dong/A-Primitive-Personal-Website/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Crisper-Dong/blog/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="4dda88232baa5811290c894d994c8c934ae2b9596716142c0f1bf4eb236842ee" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="08bcb8ed4536c68e26ed8bd776fc01c0d5c8cc58fd0dc3009d581722d12bcdf1" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2442,7 +2481,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FbLMZnrb2AqEvkWuxerUVOXrv9n5QOWuR13yJ_W4TFA54omQnDEytKt_sZeYWra0PwuuGPRxyzMtpT4E19k33A" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Crisper-Dong/blog/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E6doar7AQ2wb3C7Cot9kndAlxTVSy4xTerWQ_qbww91wry7PKII_-A3a4rCoqY2fVAG1x34L-savyIWZWTTnUA" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2450,7 +2489,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Crisper-Dong/A-Primitive-Personal-Website/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BvbCbcfmXiGnILcviV5V2gDGhBu_dmv79OjJRMCcaMNM_3dFv58uKVUyBihuArfuowXcYplfEXCrhtYt_eQypQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Crisper-Dong/blog/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Efcn_PbMrkrtAK5xH6DW9QhXmHlWCyS0XQ5_Ly7lvNe0L4NCGG49G9skQauMIgKfAEKCpyuJz6DcV4aBZnEoBg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2472,21 +2511,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Crisper-Dong/A-Primitive-Personal-Website?branch=main&amp;filepath=README.md"
+                   href="x-github-client://openRepo/https://github.com/Crisper-Dong/blog?branch=main&amp;filepath=README.md"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Crisper-Dong/A-Primitive-Personal-Website/raw/main/README.md">
+            <a class="dropdown-item" href="/Crisper-Dong/blog/raw/main/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Crisper-Dong/A-Primitive-Personal-Website/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Crisper-Dong/blog/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/A-Primitive-Personal-Website/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="4dda88232baa5811290c894d994c8c934ae2b9596716142c0f1bf4eb236842ee">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:474048654,&quot;originating_url&quot;:&quot;https://github.com/Crisper-Dong/blog/blob/main/README.md&quot;,&quot;user_id&quot;:93034081}}" data-hydro-click-hmac="08bcb8ed4536c68e26ed8bd776fc01c0d5c8cc58fd0dc3009d581722d12bcdf1">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2509,17 +2548,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Crisper-Dong/A-Primitive-Personal-Website/blame/main/README.md">
+              <a class="dropdown-item" href="/Crisper-Dong/blog/blame/main/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Crisper-Dong/A-Primitive-Personal-Website/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Crisper-Dong/blog/edit/main/README.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Crisper-Dong/A-Primitive-Personal-Website/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Crisper-Dong/blog/delete/main/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2528,10 +2567,10 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-a-primitive-personal-website" class="anchor" aria-hidden="true" href="#a-primitive-personal-website"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>A-Primitive-Personal-Website</h1>
-<p dir="auto">This project is a html webpage: <a href="https://crisper-dong.github.io/A-Primitive-Personal-Website/" rel="nofollow">https://crisper-dong.github.io/A-Primitive-Personal-Website/</a>.
-I refer to the instructions on MDN <a href="https://developer.mozilla.org/en-US/docs/Learn" rel="nofollow">https://developer.mozilla.org/en-US/docs/Learn</a>, and create this personal site to practise my web-dev skills.
-This project will be developed continuously until I finish the tutorial on MDN.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-blog" class="anchor" aria-hidden="true" href="#blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>BLOG</h1>
+<p dir="auto">This project is a webpage: <a href="https://crisper-dong.github.io/blog" rel="nofollow">https://crisper-dong.github.io/blog</a>.
+At this stage, it's just a primitive version, which doesn't looks like a blog at all. I opt to build the site from scratch as I get to learn HTML to practise my web-dev skills.</p>
+<p dir="auto">I refer to the instructions on MDN <a href="https://developer.mozilla.org/en-US/docs/Learn" rel="nofollow">https://developer.mozilla.org/en-US/docs/Learn</a>.</p>
 </article>
   </div>
 
@@ -2552,7 +2591,7 @@ This project will be developed continuously until I finish the tutorial on MDN.<
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/Crisper-Dong/A-Primitive-Personal-Website/find-definition"
+     data-tagsearch-url="/Crisper-Dong/blog/find-definition"
      data-tagsearch-ref="main"
      data-tagsearch-code-nav-context="BLOB_VIEW">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
