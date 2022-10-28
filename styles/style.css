@@ -3,16 +3,17 @@ html {
     font-family:"Times New Roman", Times, serif;
     line-height: 1.15;
     letter-spacing: 1px;
-    background-color: #D6D6D6;
+    background-color: #DDDDDD;
     padding: 20px 20px 20px 20px;
 }
 body {
-    width: 800px;
+    width: 80%;
+    max-width: 1200px;
     display: block;
     margin: 0 auto;
     padding: 20px 20px 20px 20px;
-    border: 6px solid rgb(80, 80, 160);
-    background-color: #E6E6E6;
+    border: 6px solid darkblue;
+    background-color: #EEEEEE;
 }
 h1 {
     font-size: 60px;
@@ -30,7 +31,7 @@ p {
     color: #555;
 }
 p.minor {
-    color:rgb(128, 128, 128);
+    color:gray;
     font-size: 16px;
 }
 li.crispy:hover, li.cheesy:hover {
@@ -40,10 +41,10 @@ li.crispy:hover, li.cheesy:hover {
 p.greet{
     margin: 0 auto;
     text-align: right;
-    color: rgb(128, 128, 128);
+    color:gray;
 }
 p.comment{
-    color: rgb(255, 0, 0);
+    color: red;
     text-align: left;
     font-size: 32px;
 }
