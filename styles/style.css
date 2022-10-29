@@ -12,16 +12,16 @@ body {
     display: block;
     margin: 0 auto;
     padding: 20px 20px 20px 20px;
-    border: 6px solid darkblue;
-    background-color: #EEEEEE;
+    border: 12px solid #1234CD;
+    background-color: #CCCCCC;
 }
 h1 {
     font-size: 60px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #367900;
-    text-shadow: 3px 2px 1px #367900;
+    color: #3478EF;
+    text-shadow: 3px 2px 1px #1256AB;
 }
 img {
     display: block;
