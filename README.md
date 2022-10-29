@@ -1,6 +1,6 @@
 # HTML Demo
 
-This project is a webpage: [Demo](https://bubbu0129.github.io/HTML-Demo/).
+This project is a webpage: [Demo](https://bubbu0129.github.io/Frontend-Demo/).
 
 I opt to build the site from scratch so as to practise my web-dev skills, so it may look primitive and kinda dumb.
 
